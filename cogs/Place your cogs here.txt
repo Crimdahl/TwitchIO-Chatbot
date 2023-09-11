@@ -1,0 +1,1 @@
+See cog_template.py for the code the bot is looking for.
